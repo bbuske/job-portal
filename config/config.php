@@ -2,8 +2,8 @@
 // DB Params
 
 const DB_HOST = "localhost";
-const DB_USER = "bbuske";
-const DB_PASS = "GeF37CJh#";
+const DB_USER = "user";
+const DB_PASS = "password";
 const DB_NAME = "joblister";
 
 // Site Title
